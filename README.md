@@ -1,4 +1,4 @@
-The Rewrite It In Rust (RIIR) enjoyer. Like to write cpu-bound tasks.
+The Rewrite It In Rust (RIIR) enjoyer. I like to write cpu-bound tasks.
 
 Also I do possess the knowledge of Data Science, ML and LLM.
 
